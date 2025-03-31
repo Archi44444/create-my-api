@@ -1,45 +1,4 @@
-<div align="center">
-  <a href="https://github.com/Puskar-Roy/create-my-api">
-    <img src="./docs/assets/create-api.png" alt="Logo" width="170" height="170">
-    
-  </a>
 
-  <h1 align="center">Create My API ✨</h1> 
-  <p align="center">
-    Welcome to the Create My API CLI your go-to tool and API Library for rapidly setting up production-ready API projects with ease! Whether you're a seasoned developer or just getting started, our API Library and CLI provides a streamlined 
-    experience for creating RESTful APIs using various backend technologies and database combinations.
-    <br />
-    <a href="https://github.com/Puskar-Roy/create-my-api"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://www.npmjs.com/package/create-my-api">View Demo</a>
-    ·
-    <a href="https://github.com/Puskar-Roy/create-my-api/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/Puskar-Roy/create-my-api/issues">Request Feature</a>
-  </p>
-</div>
-
-<table align="center">
-    <thead align="center">
-        <tr border: 2px;>
-            <td><b>🌟 Stars</b></td>
-            <td><b>🍴 Forks</b></td>
-            <td><b>🐛 Issues</b></td>
-            <td><b>🔔 Open PRs</b></td>
-            <td><b>🔕 Close PRs</b></td>
-        </tr>
-     </thead>
-    <tbody>
-         <tr>
-            <td><img alt="Stars" src="https://img.shields.io/github/stars/Puskar-Roy/create-my-api?style=flat&logo=github"/></td>
-             <td><img alt="Forks" src="https://img.shields.io/github/forks/Puskar-Roy/create-my-api?style=flat&logo=github"/></td>
-            <td><img alt="Issues" src="https://img.shields.io/github/issues/Puskar-Roy/create-my-api?style=flat&logo=github"/></td>
-            <td><img alt="Open Pull Requests" src="https://img.shields.io/github/issues-pr/Puskar-Roy/create-my-api?style=flat&logo=github"/></td>
-           <td><img alt="Close Pull Requests" src="https://img.shields.io/github/issues-pr-closed/Puskar-Roy/create-my-api?style=flat&color=green&logo=github"/></td>
-        </tr>
-    </tbody>
-</table>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
